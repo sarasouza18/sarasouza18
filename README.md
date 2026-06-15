@@ -70,5 +70,6 @@ For a complete overview of my professional experience, projects, talks, and tech
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/sara-souza-931337116
+* LinkedIn: https://www.linkedin.com/in/sara-souza-php-opensearch
+
 * GitHub: https://github.com/sarasouza18
